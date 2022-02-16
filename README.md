@@ -248,9 +248,11 @@ font-size: large;
 </body>
 ```
 
-## OUTPUT:
-![doc](./hh.jpeg)
-![d0c](./h.jpeg)
+## OUTPUT
+![hh](https://user-images.githubusercontent.com/93427208/154191784-1b72fa04-4a04-4fc0-b9ba-f0cfb686fe62.jpeg)
+![h](https://user-images.githubusercontent.com/93427208/154191824-f69d54cd-f764-4989-a86f-e5d46d633e99.jpeg)
+
+
 
 
 
